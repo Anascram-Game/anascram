@@ -1,6 +1,4 @@
 a
-aa
-aaa
 aah
 aahed
 aahing
@@ -305310,8 +305308,6 @@ stows
 stowse
 stowth
 stowwood
-str
-stra
 strabism
 strabismal
 strabismally
